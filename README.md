@@ -14,6 +14,7 @@ Ce projet est un prototype d'une liste de produit pour ma veille technologique d
 * Vite
 
 # Mettre en place un environnement React
+Aller directement sur ma page Google docs pour suivre une installation compléte de React :
 https://docs.google.com/document/d/1rZPqE0jPlUVb7pm-M20h_Ad61k7UA6AUlvzlZOaFrEw/edit?usp=sharing
 
 # Auteur
